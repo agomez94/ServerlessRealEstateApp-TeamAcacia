@@ -39,8 +39,8 @@ This project is an essential milestone for Everett Enterprises as they transitio
 - [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)
 
 ## Team Acacia:
-- Angel Gomez Jr - DevOps Engineer - linkedin.com/in/angelgomezjr
-- Elijah Gladden - Solutions Architect - linkedin.com/in/elijah-gladden-822858257
-- Andrew Friend - Security Specialist - linkedin.com/in/connect-with-andrew-friend
-- Gabriel De La Paz - Solutions Architect - linkedin.com/in/gabriel23de-la-paz
-- Gordon Kelly - DevOps Engineer - linkedin.com/in/gordon-kelley
+- Angel Gomez Jr - DevOps Engineer - (linkedin.com/in/angelgomezjr)
+- Elijah Gladden - Solutions Architect - (linkedin.com/in/elijah-gladden-822858257)
+- Andrew Friend - Security Specialist - (linkedin.com/in/connect-with-andrew-friend)
+- Gabriel De La Paz - Solutions Architect - (linkedin.com/in/gabriel23de-la-paz)
+- Gordon Kelly - DevOps Engineer - (linkedin.com/in/gordon-kelley)
